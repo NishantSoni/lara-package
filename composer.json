@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "ArtisanRemover\\": "packages/nishantsoni/artisan-remover",
+            "ArtisanRemover\\": "packages/nishantsoni/artisan-remover"
         }
     },
     "extra": {
