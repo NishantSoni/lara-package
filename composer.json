@@ -9,6 +9,11 @@
     ],
     "minimum-stability": "stable",
     "require": {},
+    "autoload": {
+        "psr-4": {
+            "ArtisanRemover\\": "packages/nishantsoni/artisan-remover",
+        }
+    },
     "extra": {
         "laravel": {
             "providers": [
