@@ -1,0 +1,19 @@
+{
+    "name": "nishantsoni/artisan-remover",
+    "description": "An package for remove artisan commands in the laravel application, some times there is a need to remove some cmds from the production for security reason.",
+    "authors": [
+        {
+            "name": "Nishant Soni",
+            "email": "soninishant287@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+              "nishantsoni\\artisan-remover\\ArtisanRemoverServiceProvider"
+            ]
+        }
+    }
+}
