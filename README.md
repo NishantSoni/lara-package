@@ -1,4 +1,4 @@
-# Project Title
+# Laravel Package - Artisan command remover 
 
 Sometimes there is a need to remove the artisan commands from the productions for the security reason, so by this package you can remove the artisan commands from artisan commands list. 
 
