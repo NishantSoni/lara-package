@@ -124,7 +124,7 @@ class ArtisanRemoverServiceProvider extends IlluminateProvider
 	 * 
 	 * @return void
 	 */
-    private function removeArtisanCommands()
+    private function removeArtisanCommands()  
     {
     	$cmds = env('REMOVE_COMMANDS');
     	if(strlen($cmds) > 0){
