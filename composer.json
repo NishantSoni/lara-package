@@ -10,8 +10,8 @@
     "minimum-stability": "stable",
     "require": {},
     "autoload": {
-        "psr-0": {
-            "ArtisanRemover": "src/"
+        "psr-4": {
+            "Nishantsoni\\Artisanremover\\": "src/"
         }
     }
 }

@@ -1,6 +1,6 @@
 <?php 
 
-namespace ArtisanRemover;
+namespace Nishantsoni\Artisanremover;
 
 use Illuminate\Foundation\Providers\ArtisanServiceProvider as IlluminateProvider;
 use Illuminate\Console\Scheduling\ScheduleRunCommand;
