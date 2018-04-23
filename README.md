@@ -20,4 +20,4 @@ Next step is to clear the configuration cache-
 php artisan config:clear
 ```
 
-### Now it's ready for use!!
+### Now it's ready for use!!!!
