@@ -34,6 +34,7 @@ If you want to remove some more commands then you just need to add by comma, lik
 REMOVE_COMMANDS=migrate:refresh,migrate:reset,migrate:fresh,cache:clear
 ```
 
+Now You will see in the commands list, the above commands are removed. 
 
 
-### Now it's ready for use!!!!
+### it's ready for use!!!!
