@@ -8,7 +8,7 @@ Sometimes there is a need to remove the artisan commands from the productions fo
 composer require nishantsoni/artisanremover
 ```
 
-Once this operation completes, the final step is to add the service provider. Open config/app.php, and add a new item to the service providers array-
+Once this operation completes, the next step is to add the service provider. Open config/app.php, and add a new item to the service providers array-
 
 ```
 \Nishantsoni\Artisanremover\ArtisanRemoverServiceProvider::class,
