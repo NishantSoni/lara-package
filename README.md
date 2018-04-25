@@ -5,7 +5,7 @@ Sometimes there is a need to remove the artisan commands from the productions fo
 ## Installation & Configuration
 
 ```
-composer require nishantsoni/artisanremover
+composer require nishantsoni/artisan-remover
 ```
 
 Once this operation completes, the next step is to add the service provider. Open config/app.php, and add a new item to the service providers array-
